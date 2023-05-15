@@ -1,7 +1,5 @@
 # Responsibble Media Player
 
-![Visual]()
-
 ## Inhoudsopgave
   * [Beschrijving](#beschrijving)
   * [Opdrachtgever](#opdrachtgever)
