@@ -18,7 +18,7 @@ Het HvA-lectoraat Responsible IT werkt aan veilige, eerlijke en waardevolle toep
 
 In deze opdracht verstaan we onder **media** video, audio en statisch beeld. Het team ontwikkelt een prototype van een component dat laat zien hoeveel stroom het opslaan en streamen van het gebruikte mediabestand kost, en toont de bijbehorende CO2 uitstoot. De gebruiker kan zelf bepalen of zij het bestand daadwerkelijk streamt / download. Gebruikers kiezen er door jouw component bewust voor om meer CO2 te produceren door hun online gedrag. 
 
-De hoeveelheid uitstoot van een willekeurige website is lastig te berekenen. Het hangt af van het stroomverbruik, en vervolgens van de CO2-uitstoot van elektriciteitsproductie. Je krijgt van het Lectoraat een experimentele online calculator ter beschikking die de ruwe cijfers voor je produceert. Deze kun je gebruiken voor je prototype. 
+De hoeveelheid uitstoot van een willekeurige website is lastig te berekenen. Het hangt af van het stroomverbruik, en vervolgens van de CO2-uitstoot van elektriciteitsproductie. Om de opdracht te kunnen uitvoeren, krijg je een JavaScript-functie aangereikt die een bepaalde hoeveelheid MB accepteert en vervolgens de totale hoeveelheid gram CO2 berekent die nodig is om het mediatype te bekijken. Dit wordt gedaan met behulp van een wiskundige formule, waarbij rekening wordt gehouden met processen zoals opslag- en verwerkingsgebruik. _Houd er rekening mee dat deze berekening een schatting is en een zekere foutmarge heeft_.
 
 
 - Het Responsible Code project is geïnspireerd door [sustainablewebdesign.org/](https://sustainablewebdesign.org/) 
