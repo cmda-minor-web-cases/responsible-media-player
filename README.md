@@ -26,7 +26,7 @@ In deze opdracht verstaan we onder **media** video, audio en statisch beeld. Het
 - The carbon footprint of streaming video: fact-checking the headlines – Analysis - IEA. (z.d.). IEA. https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines
 
 ### User stories
-- Als gebruiker zie ik naast, over, in, onder of naast ieder media component op een website een CO2 component;
+- Als gebruiker zie ik naast, over, in of onder ieder media component op een website een CO2 component;
 - Als gebruiker zie ik hoeveel energie het opslaan/streamen van het mediabestand kost;
 - Als gebruiker kan ik het mediabestand pas streamen of bekijken als ik daarvoor toestemming geef; 
 - Als gebruiker zie ik de hoeveelheid CO2-uitstoot als ik besluit een mediabestand te streamen;
