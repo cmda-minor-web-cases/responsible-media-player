@@ -15,7 +15,6 @@ Het streamen of downloaden van media via het web is één van de oorzaken van CO
 Het HvA-lectoraat Responsible IT werkt aan veilige, eerlijke en waardevolle toepassingen van (web)technologie. Het lectoraat doet o.a. onderzoek naar duurzame ICT, en zoekt manieren om CO2-uitstoot van ICT producten te verminderen. Samen met studenten en docenten van CMD en de AD FDND ontwikkelt het lectoraat zo verantwoord mogelijke front-end code die voldoet aan de strengste eisen van toegankelijkheid, robuustheid, veiligheid, duurzaamheid en privacy. Iedereen in de Creatieve Industrie mag deze code gratis gebruiken en verder ontwikkelen.
 
 ## Design challenge
-## Design challenge
 
 In deze opdracht verstaan we onder **media** video, audio en statisch beeld. Het team ontwikkelt een prototype van een component dat laat zien hoeveel stroom het opslaan en streamen van het gebruikte mediabestand kost, en toont de bijbehorende CO2 uitstoot. De gebruiker kan zelf bepalen of zij het bestand daadwerkelijk streamt / download. Gebruikers kiezen er door jouw component bewust voor om meer CO2 te produceren door hun online gedrag. De component is een aanvulling op de bestaande media players. Het is niet de bedoeling dat je die zelf bouwt (maar je mag het proberen).
 
