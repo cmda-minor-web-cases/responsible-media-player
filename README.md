@@ -29,16 +29,13 @@ De hoeveelheid uitstoot van een willekeurige website is lastig te berekenen. Het
 
 ### User stories
 - Als gebruiker zie ik naast, over, in of onder ieder media component op een website een CO2 component;
-- Als gebruiker zie ik hoeveel energie het opslaan/streamen van het mediabestand kost;
 - Als gebruiker kan ik het mediabestand pas streamen of bekijken als ik daarvoor toestemming geef; 
-- Als gebruiker zie ik de hoeveelheid CO2-uitstoot als ik besluit een mediabestand te streamen;
+- Als gebruiker zie ik vooraf de geschatte hoeveelheid CO2-uitstoot als ik besluit een mediabestand te streamen;
 - Als gebruiker zie ik tijdens het streamen hoeveel CO2 ik uitstoot;
 - Als gebruiker zie in begrijpelijke vorm waar het CO2 verbruik op is gebaseerd; 
 - Als gebruiker zie ik visuele metaforen zoals infographics 
 - Als gebruiker begrijp ik dat streamen van media energie kost;
 - Als gebruiker begrijp ik dat energieproductie CO2 uitstoot veroorzaakt;
-- Als gebruiker begrijp ik dat CO2 uitstoot het klimaat beïnvloedt;
-
 
 ## Data
 ...
