@@ -1,4 +1,4 @@
-# Responsibble Media Player
+# Responsible Media Player
 
 ## Inhoudsopgave
   * [Beschrijving](#beschrijving)
